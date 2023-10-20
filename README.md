@@ -82,6 +82,6 @@ Enter the Y coordinate for the target street: 67.890
 ```
 
 Acknowledgments
-Geopandas - For geospatial data manipulation.
-Shapely - For geometric operations.
+1. Geopandas - For geospatial data manipulation.
+2. Shapely - For geometric operations.
 
