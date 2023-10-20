@@ -47,7 +47,10 @@ Before using this script, you need to have the following prerequisites installed
    git clone https://github.com/YourUsername/Street-Intersection-Finder.git
 
 Navigate to the project directory:
-cd Street-Intersection-Finder
+
+```shell
+    cd Street-Intersection-Finder
+
 
 ##Usage
 
