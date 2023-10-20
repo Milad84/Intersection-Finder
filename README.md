@@ -57,7 +57,7 @@ pip install geopandas shapely
 ```
 
 
-##Usage
+## Usage
 
 1. Run the script by executing python module4.py from the command line.
 
@@ -67,13 +67,13 @@ pip install geopandas shapely
 
 4. The script will then display the names of streets that intersect with the target street.
 
-##Examples
+## Examples
 Search by Street Name
 ```shell
 Search by name (N) or geometry (G)? N
 Enter the name of the target street: Main Street 
 ```
-##Search by Geometry (Coordinates)
+## Search by Geometry (Coordinates)
 
 ```shell
 Search by name (N) or geometry (G)? G
@@ -81,7 +81,7 @@ Enter the X coordinate for the target street: 12.345
 Enter the Y coordinate for the target street: 67.890
 ```
 
-Acknowledgments
+## Acknowledgments
 1. Geopandas - For geospatial data manipulation.
 2. Shapely - For geometric operations.
 
