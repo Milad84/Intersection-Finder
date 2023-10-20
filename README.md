@@ -13,8 +13,8 @@ A Python script for finding streets that intersect with a target street in a giv
   - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Search by Street Name](#StreetName)
-- [Search by Geometry](#Geometry)
+- [Search by Street Name](#Search-by--Street-Street-Name)
+- [Search by Geometry](#Search-by-Geometry-(Coordinates))
 - [Acknowledgments](#acknowledgments)
 
 ## Description
