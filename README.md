@@ -46,3 +46,28 @@ Before using this script, you need to have the following prerequisites installed
    ```shell
    git clone https://github.com/YourUsername/Street-Intersection-Finder.git
 
+Navigate to the project directory:
+cd Street-Intersection-Finder
+
+##Usage
+
+1. Run the script by executing python module4.py from the command line.
+
+2. Follow the prompts to select your target street by either name (N) or geometry (G).
+
+3. Enter the required information as requested.
+
+4. The script will then display the names of streets that intersect with the target street.
+
+##Examples
+Search by name (N) or geometry (G)? N
+Enter the name of the target street: Main Street
+
+##Search by Geometry (Coordinates)
+Search by name (N) or geometry (G)? G
+Enter the X coordinate for the target street: 12.345
+Enter the Y coordinate for the target street: 67.890
+
+Acknowledgments
+Geopandas - For geospatial data manipulation.
+Shapely - For geometric operations.
