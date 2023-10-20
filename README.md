@@ -1,6 +1,6 @@
 # Street Intersection Finder
 
-![GitHub license]([![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT))
+![GitHub license][![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A Python script for finding streets that intersect with a target street in a given shapefile using Geopandas.
 
