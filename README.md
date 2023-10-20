@@ -13,7 +13,8 @@ A Python script for finding streets that intersect with a target street in a giv
   - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [License](#license)
+- [Search by Street Name](#StreetName)
+- [Search by Geometry](#Geometry)
 - [Acknowledgments](#acknowledgments)
 
 ## Description
@@ -68,7 +69,8 @@ pip install geopandas shapely
 4. The script will then display the names of streets that intersect with the target street.
 
 ## Examples
-Search by Street Name
+
+## Search by Street Name
 ```shell
 Search by name (N) or geometry (G)? N
 Enter the name of the target street: Main Street 
