@@ -50,6 +50,11 @@ Navigate to the project directory:
 
 ```shell
     cd Street-Intersection-Finder
+```
+Install the required Python packages:
+```shell
+pip install geopandas shapely
+```
 
 
 ##Usage
@@ -63,14 +68,20 @@ Navigate to the project directory:
 4. The script will then display the names of streets that intersect with the target street.
 
 ##Examples
+Search by Street Name
+```shell
 Search by name (N) or geometry (G)? N
-Enter the name of the target street: Main Street
-
+Enter the name of the target street: Main Street 
+```
 ##Search by Geometry (Coordinates)
+
+```shell
 Search by name (N) or geometry (G)? G
 Enter the X coordinate for the target street: 12.345
 Enter the Y coordinate for the target street: 67.890
+```
 
 Acknowledgments
 Geopandas - For geospatial data manipulation.
 Shapely - For geometric operations.
+
